@@ -38,7 +38,7 @@
   - [Feedback](#feedback)
  
 ## Just Do More
-You've got to go to clubs, take graduate-level classes, do research, take all the hardest courses, and maintain a 4.0. Don't forget personal projects, you didn't forget personal projects, did you? If you don't have projects by the end of your first semester, you're already behind. In fact, you should've come in with AP credits; you should've tested out of CS-180. Plus, you've got to do a minor, and a second major, and if you haven't done a hackathon when they talk to you at the career fair, they _will shoot you, they will take you out back, and they will shoot you because you're a lazy, good-for-nothing waste of space_.
+You've got to go to clubs, take graduate-level classes, do research, take all the hardest courses, and maintain a 4.0. Don't forget personal projects, you didn't forget personal projects, did you? If you don't have projects by the end of your first semester, you're already behind. In fact, you should've come in with a personal project, and at least 20 AP credits. Plus, you've got to do a minor, and a second major, and if you haven't done a hackathon when they talk to you at the career fair, they _will shoot you, they will take you out back, and they will shoot you because you're a lazy, good-for-nothing waste of space_.
 
 **Jesus Christ. Stop.**
 
