@@ -416,6 +416,8 @@ Self-explanatory, yet difficult for some people to grasp.
 If AI can do your job, you won't have it for long. Chances are, if an AI can do your entire job
 1. The internship is a simplified version of the real job, one meant to teach you skills that you're not learning because you're using ChatGPT.
 2. You're doing your job poorly, but don't realize it, because you're just using an AI.
+
+If your manager is okay with you using an LLM, that's great! But use it as a tool, double check it's ouput, and understand what it's doing.
 #### Know the Warning Signs
 The corporate world tends to be incredibly sanitized. When you screw up (especially as an intern), people won't get mad at you, they won't yell at you, they might not even say "you screwed up". They will smile at you because that's their job, then they will tell the people making hiring decisions that you're a terrible fit.
 
