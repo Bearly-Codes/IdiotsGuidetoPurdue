@@ -365,7 +365,7 @@ No individual class is all that hard. They're not designed to be hard; they're d
 
 The real problem is that you don't just have one class, you've got five. While a single class will attempt to distribute its work evenly so as not to overwhelm students, multiple classes can and _absolutely will_ synchronize midterms, projects, or homeworks to all be due at once.
 
-I once had an incredibly easy semester, except for when every single one of my classes had a midterm over the space of 6 days. Just like how waves can combine to create massive rogue waves, your classes will combine to create rogue waves of work that will sweep you away unless you spot them ahead of time. Remember that your workload can vary wildly. If there's a rogue wave on the horizon and you're already struggling to keep up, it might be worthwhile to [Gracefully Shed Responsibility](#Aim Big, Cut Aggressively).
+I once had an incredibly easy semester, except for when every single one of my classes had a midterm over the space of 6 days. Just like how waves can combine to create massive rogue waves, your classes will combine to create rogue waves of work that will sweep you away unless you spot them ahead of time. Remember that your workload can vary wildly. If there's a rogue wave on the horizon and you're already struggling to keep up, it might be worthwhile to shed responsibility.
 
 Part of the reason it's so important to leave yourself some wiggle room is that workloads will vary massively, and in ways you can't predict. Some semesters will be easy, but will have sudden and extreme spikes in work (see my example with the 6-day midterm hell). Others will be full of difficult classes, but will spread the work out so you'll find yourself with a shockingly manageable semester.
 
