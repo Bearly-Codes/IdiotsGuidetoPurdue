@@ -371,7 +371,7 @@ Part of the reason it's so important to leave yourself some wiggle room is that 
 
 Read the syllabus, make sure you're aware of when midterms will happen, and try to lessen their impact.
 ## The Job Hunt
-While academics dominate the minds of students, the hunt for internships (and jobs) is what's important. Not so much your freshman year (though you should turn up to a few career fairs to get used to it), but sophomore year and your internships can matter as much as (or more than) your grades.
+While academics dominate the minds of students, the hunt for internships (and jobs) is what's important. Not so much your freshman year (though you should turn up to a few career fairs to get used to it), but sophomore year and up your internships can matter as much as (or more than) your grades.
 
 Despite this, students tend to massively underinvest in finding an internship. This makes it comparatively easy to stand out in the job search (far easier than standing out in terms of GPA). 
 
