@@ -49,7 +49,7 @@ Instead, this guide will attempt to focus on teaching you how to select, from yo
 Don't do more, make the things you're doing do more for you.
 
 With that being said, welcome to
-# A Comprehensive Guide to Purdue CS
+# An Idiot's Guide to Purdue CS
 ## Life Skills
 The meat of this guide won't be academic advice; it'll be broad life skills and mindsets that'll help you spend your time more efficiently. Rather than telling you to do more extracurriculars or join more clubs, the point of this section is to help you figure out which activities are most valuable and how much time you should spend on them.
 ### Playing a Role
