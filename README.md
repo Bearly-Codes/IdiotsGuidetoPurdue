@@ -370,6 +370,36 @@ I once had an incredibly easy semester, except for when every single one of my c
 Part of the reason it's so important to leave yourself some wiggle room is that workloads will vary massively, and in ways you can't predict. Some semesters will be easy, but will have sudden and extreme spikes in work (see my example with the 6-day midterm hell). Others will be full of difficult classes, but will spread the work out so you'll find yourself with a shockingly manageable semester.
 
 Read the syllabus, make sure you're aware of when midterms will happen, and try to lessen their impact.
+### Beware Credentialism
+I like doing well in college. I like taking a bunch of tracks, adding additional minors, and having a class schedule that impresses random students who ask me what my track is in lab. By my nature, I'm overly credentialist; I like having stamps, symbols, and little gold stars that say I'm smart. But most recruiters won't care all that much; your third CS track might be doing little more than providing you the illusion of productivity.
+
+While yes, additional classes can theoretically help, they are a massive, high quitting-cost time investment. Treat additional classes, tracks, minors, and majors with the respect they deserve. You should not throw them in your schedule without thought, do difficult classes "just because you can", or take them because you're smart, and smart people take graduate-level classes. Rather than doing impressive extracurriculars, I often see intelligent people dump their time into dubiously rewarding second majors, difficult classes that lack clear benefit, or crushing schedules done only for bragging rights.
+
+You should take an additional class, major, minor, or track if:
+- It is the most efficient way to increase your employability, or the quantity and quality of employment options.
+- You require the credential that having a good grade in the class provides.
+- The class is the most efficient way of learning a topic.
+- The benefit of having the class on your transcript is worth the significant increase in quitting costs over auditing a course
+- You enjoy the class as a hobby, and even if it didn't help you at all, you still would've been glad to have taken it
+- You require the accountability of a class to learn.
+
+If you want to learn about cloud computing, should you take a class, or should you email a dozen people employed in cloud computing roles, asking for their perspective? If you want to gain experience working on software projects, should you take a class like 307, or avoid the class and start a project with your friends?
+
+If you have extra time, only increase your class load if it provides a clear and meaningful benefit (such as the ones listed above). Don't do so thoughtlessly. Remember to consider that you could be using the time spent in this class in clubs, on personal projects, hobbies, or talking to women. This comes with the caveat that some people lack motivation and must put themselves in situations with high accountability/quitting costs to get anything done. If this describes you, then the high quitting costs of classes might be a necessary evil to learn, and you should take additional classes rather than waste the time doing nothing.
+
+If you wish to broaden your horizons, learn for learning's sake, or gain additional experience, consider:
+- Auditing a course.
+- Attending a club.
+- Doing project-based learning.
+- Asking a professor to do research in that area.
+- Making use of online resources, like MIT's free courses.
+- Doing a Co-op.
+- Contributing to open-source projects.
+- Conversing with domain experts (professors, people employed in the field).
+
+These are especially useful if you're skilled at teaching yourself, tend to outpace curricula, find classwork meaningless and repetitive, or have difficulty learning via lectures.
+
+While you will get advice to take additional classes, remember that you can often get the same (or better) benefits from learning outside of class. If you wish to broaden your horizons, the internet can provide all manner of free resources. If you wish to gain experience, people are more than happy to let you work on open source projects. If you're terrible at learning from classes and must teach yourself most of the content anyway, cut out the middleman. Never, ever add a class without recognizing the time commitment it requires and respecting the dedication it will take to complete.
 ## The Job Hunt
 While academics dominate the minds of students, the hunt for internships (and jobs) is what's important. Not so much your freshman year (though you should turn up to a few career fairs to get used to it), but sophomore year and up your internships can matter as much as (or more than) your grades.
 
