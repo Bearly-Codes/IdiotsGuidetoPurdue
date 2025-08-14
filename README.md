@@ -23,6 +23,7 @@
     - [Build Genuine Understanding (If You Want To)](#build-genuine-understanding-if-you-want-to)
     - [White Whales](#white-whales)
     - [Beware the Rogue Wave](#beware-the-rogue-wave)
+    - [Beware Credentialism](#beware-credentialism)
   - [The Job Hunt](#the-job-hunt)
     - [Career Fairs](#career-fairs)
     - [Resume](#resume)
