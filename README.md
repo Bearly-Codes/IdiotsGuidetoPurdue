@@ -385,6 +385,7 @@ You should take an additional class, major, minor, or track if:
 - The benefit of having the class on your transcript is worth the significant increase in quitting costs over auditing a course
 - You enjoy the class as a hobby, and even if it didn't help you at all, you still would've been glad to have taken it
 - You require the accountability of a class to learn.
+- You require direct feedback on your work (which large classes rarely provide).
 
 If you want to learn about cloud computing, should you take a class, or should you email a dozen people employed in cloud computing roles, asking for their perspective? If you want to gain experience working on software projects, should you take a class like 307, or avoid the class and start a project with your friends? Consider alternative ways of learning the same content.
 
