@@ -55,15 +55,11 @@ With that being said, welcome to
 ## Meta-Skills
 The meat of this guide won't be academic advice; it'll be broad life skills and mindsets that'll help you spend your time more efficiently. Rather than telling you to do more extracurriculars or join more clubs, the point of this section is to help you figure out which activities are most valuable and how much time you should spend on them.
 ### Keeping Up with the Joneses
-One of the most common ways I see high-achievers spend their time poorly is "Keeping Up with the Joneses". This is an idiom that refers to attempting to compete (or keep up with) the material wealth, class, or status of one's neighbors. In Purdue, it manifests as a desire to intellectually compete with those around you, to "win at Purdue" and prove yourself more intelligent, more talented, or more dedicated than your peers.
+One of the most common ways I see high-achievers waste time is "Keeping Up with the Joneses". This is an idiom that refers to attempting to compete (or keep up with) the material wealth, class, or status of one's neighbors. In Purdue, it manifests as a desire to intellectually compete with those around you, to "win at Purdue" and prove yourself more intelligent, more talented, or more dedicated than your peers.
 
-At one point in my internship hunt, I'd glibly mentioned that the outcome of my upcoming interview would probably impact my life more than the GPA I got this semester. Then I sat up in a panic as I realized how poorly I'd been spending my time, fretting over even the smallest assignments while treating the job hunt like a hobby. I'd been stuck trying to keep up with the culture of Purdue high achievers, doing the things that it felt like I "should be" doing while ignoring things that were far more valuable uses of my time.
+The Purdue rat race will drive you to put effort into things that students care a lot about, most often GPA and course load. But that's a poor strategy. The only competition at Purdue is for jobs, and standing out in the eyes of recruiters is easiest if you focus on things that recruiters care about, but most students ignore. Being stuck in the rat race means you're going to dump lots of effort into the opposite, things that students obsess over, but recruiters care very little about.
 
-The Purdue rat race will drive you to put effort into things that students care a lot about, most often GPA and course load. But that's a poor strategy.
-
-The only competition at Purdue is for jobs, and standing out in the eyes of recruiters is easiest if you focus on things that recruiters care about, but most students ignore. Being stuck in the rat race means you're going to dump lots of effort into the opposite, things that students obsess over, but recruiters care very little about.
-
-This is bad because people waste a lot of time. But it's also good for you, because if you can manage to avoid wasting time trying to assert dominance and, say, ruthlessly optimize for employability, you might come out far ahead of people who are smarter and more dedicated than you.
+While this is bad for the overall population of Purdue, it's good for you, because if you can manage to avoid wasting time trying to assert dominance and, say, ruthlessly optimize for employability, you might come out far ahead of people who are smarter and more dedicated than you.
 ### Clarify Your Goals
 To avoid keeping up with the Joneses, figure out some life goals beyond just "having people think I'm smart" or "fitting in". What do you want out of college? What do you want out of life?
 
