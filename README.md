@@ -53,7 +53,7 @@ Don't do more, make the things you're doing do more for you.
 With that being said, welcome to
 # An Idiot's Guide to Purdue CS
 ## Meta-Skills
-The meat of this guide won't be academic advice; it'll be broad life skills and mindsets that'll help you spend your time more efficiently. Rather than telling you to do more extracurriculars or join more clubs, the point of this section is to help you figure out which activities are most valuable and how much time you should spend on them.
+Rather than telling you to do more extracurriculars or join more clubs, the point of this section is to teach you how to prioritize, manage time, and learn. These are meta-skills, the skills that help you learn other skills.
 ### Keeping Up with the Joneses
 One of the most common ways I see high-achievers waste time is "Keeping Up with the Joneses". This is an idiom that refers to attempting to compete (or keep up with) the material wealth, class, or status of one's neighbors. In Purdue, it manifests as a desire to intellectually compete with those around you, to "win at Purdue" and prove yourself more intelligent, more talented, or more dedicated than your peers.
 
