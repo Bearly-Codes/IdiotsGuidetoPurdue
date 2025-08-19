@@ -57,9 +57,13 @@ Rather than telling you to do more extracurriculars or join more clubs, the poin
 ### Keeping Up with the Joneses
 One of the most common ways I see high-achievers waste time is "Keeping Up with the Joneses". This is an idiom that refers to attempting to compete (or keep up with) the material wealth, class, or status of one's neighbors. In Purdue, it manifests as a desire to intellectually compete with those around you, to "win at Purdue" and prove yourself more intelligent, more talented, or more dedicated than your peers.
 
+This is characterized by a desire to do things solely because you see other high-achievers doing them. A willingness to take on additional responsibility for the sole purpose of impressing your peers, or because it feels like it's what smart people do. If you read Kartava's guide and then felt like you _had_ to do many of the things he'd suggested, along with a feeling that you were "falling behind," then you're Keeping up with the Joneses. In short, you're optimizing for impressiveness towards your peers.
+
 The Purdue rat race will drive you to put effort into things that students care a lot about, most often GPA and course load. But that's a poor strategy. The only competition at Purdue is for jobs, and standing out in the eyes of recruiters is easiest if you focus on things that recruiters care about, but most students ignore. Being stuck in the rat race means you're going to dump lots of effort into the opposite, things that students obsess over, but recruiters care very little about.
 
-While this is bad for the overall population of Purdue, it's good for you, because if you can manage to avoid wasting time trying to assert dominance and, say, ruthlessly optimize for employability, you might come out far ahead of people who are smarter and more dedicated than you.
+Many other things at Purdue aren't a competition, and shouldn't be treated as such. Passion projects can be solely for passion, and attempting to copy someone else's passion project, even though you don't enjoy it, will quickly make you unhappy. Joining a club because you enjoy it is great; joining a club because you feel like you have to is a bad idea.
+
+While this is bad for the overall population of Purdue, it's good for you in the job search, because if you can manage to avoid wasting time trying to assert dominance and, say, ruthlessly optimize for employability, you might come out far ahead of people who are smarter and more dedicated than you.
 ### Clarify Your Goals
 To avoid keeping up with the Joneses, figure out some life goals beyond just "having people think I'm smart" or "fitting in". What do you want out of college? What do you want out of life?
 
