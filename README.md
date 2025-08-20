@@ -276,7 +276,7 @@ Another risk is that you don't learn the class content. That's not too bad if it
 
 Failing to understand the concepts presented in these classes will directly impact your performance in later classes. Even within a single class, failing to understand prerequisite material can result in needing to cheat later on to maintain your performance.
 
-If you have a history of cheating in Calc-1 and then attempt to cheat your way through Calc-2 and get caught, you'll either have to risk further penalty by continuing to cheat or teach yourself all the concepts you missed in Calc-1 so you can complete the course authentically.
+If you have a history of cheating in Calc-1 and then attempt to cheat your way through Calc-2 and get caught, you'll either have to risk further penalty by continuing to cheat or teach yourself all the concepts you missed in Calc-1 so you can complete the course authentically. This, combined with the mindset that they're "already so far behind" and "can't afford not to cheat" makes students double down on cheating.
 
 Never, ever cheat in CS-180. Not only do you run the risk of getting a permanent mark on your record for cheating in the easiest CS class in your easiest semester, but you run the risk of never learning core skills that you'll use for the rest of your degree (and career). 
 
