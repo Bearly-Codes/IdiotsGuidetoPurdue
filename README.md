@@ -1,7 +1,7 @@
 > [!NOTE]  
 > Inspired by and partially rebutting
-> [this document written by Kartava](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038)  
-> This exists best as a compliment to Kartava's work, I created this because I felt as though the guide was missing something. Not because I thought it lacked value.
+> [this document written by Kart](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038)  
+> This exists best as a compliment to Kart's work, I created this because I felt as though the guide was missing something. Not because I thought it lacked value.
 
 ## Table of Contents
 - [Just Do More](#just-do-more)
