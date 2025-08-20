@@ -247,7 +247,7 @@ Study procedural knowledge by performing the procedures you'll be tested on as o
 
 Study conceptual knowledge by picking topics and trying to write your entire understanding of them down as quickly as possible. Don't use the internet or outside help. After you're done, use your resources to edit your initial writing to make it better. Learning about paging? Write everything you know about paging down on a sheet of paper (or an online document), then go to the slides to add all the facts you missed.
 
-Study factual knowledge with flashcards. Add mnemonics, songs, or chants if you have difficulty remembering something. 
+Study factual knowledge with flashcards. Add mnemonics, songs, or chants if you have difficulty remembering something. Like using the movie title GATTACA to remember the four nucleotide bases.
 
 Use spaced repetition. Just because you have a good grasp of something now doesn't mean you'll still remember it for the test. The more times you review something, the more likely it is to stay in your brain.
 
