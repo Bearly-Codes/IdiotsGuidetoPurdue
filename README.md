@@ -463,4 +463,4 @@ The absolute most important takeaway is to never stop learning, growing, and imp
 If you've spotted anything that looks like bad advice, please tell me so I can fix it (you can open an issue on the repo). The same goes for grammatical errors. The first draft I threw in Grammarly had over 600; I'm used to them. If you've got advice to give, leave it below. I'll do my best to credit you. Reading through this whole thing isn't easy, and I respect the commitment to get to the end. Because of that, your comments, critiques, or additional advice to add is incredibly valuable. I'll try to respond to all of it.
 
 ### Special Thanks
-[Kart](https://github.com/kartva) _for emphasizing the value of brevity_
+[Kart](https://github.com/kartva) _for emphasizing the value of brevity._
