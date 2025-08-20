@@ -327,7 +327,7 @@ Then I studied the same for the final, which ended up being an entirely differen
 
 In a perfect world, we could invest a ton of effort into every class we took, but at Purdue, you're going to be busy. If you're forced to make time or are fighting with a stuffed schedule, putting less effort into classes that you deem less important can be a good idea.
 ### White Whales
-White Whales are classes that are fairly easy to get a B or C in, but require an extreme amount of effort to get an A. Perfectionists will often tank their mental health, putting all their other graders (and activities) at risk, to chase a White Whale. This is a particularly bad idea if the course is one you're not interested in, passionate about, or suited for.
+White Whales are classes that are fairly easy to get a B or C in, but require an extreme amount of effort to get an A. Perfectionists will often tank their mental health, putting all their other grades (and activities) at risk, to chase a White Whale. This is a particularly bad idea if the course is one you're not interested in, passionate about, or suited for.
 
 If you think it's achievable, then feel free to hunt that White Whale. But remember that your effort should be used in the most efficient manner possible. If the time spent getting an A could've been used to make a stellar personal project, was the A worth it?
 
