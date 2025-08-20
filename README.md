@@ -66,9 +66,9 @@ This is characterized by a desire to do things solely because you see other high
 
 The Purdue rat race will drive you to put effort into areas that your peers care about, most often GPA and course load. But the only way in which students at Purdue _really_ compete is the job search. The overlap between impressing peers and impressing recruiters is quite large, but there are a few key differences. Recruiters often care less about GPA and more about your resume, interview skills, experience, and demonstrations of technical skill. Areas which recruiters obsess over, but your peers largely ignore, are areas where it's very easy to stand out. They can provide a huge benefit precisely _because_ your peers don't seem to be doing them.
 
-Most things at Purdue aren't a competition, and shouldn't be treated as such. Passion projects can be solely for passion, and attempting to copy someone else's passion project, even though you don't enjoy it, will quickly make you unhappy. Joining a club because you enjoy it is great; joining a club because you feel like you have to is a bad idea.
+Most things at Purdue aren't a competition, and shouldn't be treated as such. Passion projects can be solely for passion, and attempting to copy someone else's passion project, even though you don't enjoy it, will quickly make you unhappy. Same goes for clubs, doing them out of interest is wonderful, doing them out of obligation is a bad idea. Rather than scattering yourself across a half dozen obligations, it's best to truly focus on a handful of fun passions.
 
-If you're set on competing, it's best to optimize for employability, rather than trying to maximize how impressed the other people in your lab are when you tell them about your schedule.
+If you're set on competing, then optimize for employability, don't maximize your ability to dunk on freshman and scare classmates with your schedule.
 ### Clarify Your Goals
 To avoid keeping up with the Joneses, figure out some life goals beyond just "having people think I'm smart" or "fitting in". What do you want out of college? What do you want out of life?
 
