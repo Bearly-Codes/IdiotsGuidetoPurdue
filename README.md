@@ -68,7 +68,7 @@ The Purdue rat race will drive you to put effort into areas that your peers care
 
 Most things at Purdue aren't a competition, and shouldn't be treated as such. Passion projects can be solely for passion, and attempting to copy someone else's passion project, even though you don't enjoy it, will quickly make you unhappy. Same goes for clubs, doing them out of interest is wonderful, doing them out of obligation is a bad idea. Rather than scattering yourself across a half dozen obligations, it's best to truly focus on a handful of fun passions.
 
-If you're set on competing, then optimize for employability, don't maximize your ability to dunk on freshman and scare classmates with your schedule.
+If you're set on competing, then optimize for employability, don't maximize your ability to dunk on freshmen and scare classmates with your schedule.
 ### Clarify Your Goals
 To avoid keeping up with the Joneses, figure out some life goals beyond just "having people think I'm smart" or "fitting in". What do you want out of college? What do you want out of life?
 
