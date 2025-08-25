@@ -419,7 +419,7 @@ Many people make the mistake of treating an internship like they're interviewing
 
 If you _do_ pretend you know things that you don't, then absolutely don't keep pretending even after it's obvious you're clueless. Do not double down; your boss can tell when you're doubling down on your ignorance, and it frustrates them. It also makes it less likely they'll take time out of their day to explain things to you, because explaining things to someone who refuses to admit they're lost is incredibly frustrating.
 #### Do Your Work
-Self-explanatory, yet difficult for some people to grasp.
+Self-explanatory.
 #### Yes, That Means You Should Be Doing Your Work, Not AI
 If your manager is okay with you using an LLM, that's great! But use it as a tool, double-check its output, and understand what it's doing.
 
